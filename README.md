@@ -10,6 +10,7 @@ Change the following variables under Macro1
 4. Set serverPassword
 5. Set serverDescription (optional but nice to see if managing multiple scripts)
 6. Load this script into AutoHotkey and press **Alt + .** to start
+7. Wait until character selection screen loads, choose your character and then click the **OK on my popup**. Do not click the Start button in the game.
 
 An example might look like...
 
