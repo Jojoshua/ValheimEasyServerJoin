@@ -3,7 +3,7 @@ An easy way to configure and join Valheim servers using AutoHotkey (https://www.
 
 - This might not work on very small screens. Feel free to send PRs
 
-Change the following variables under Macro1
+Change the following variables under **Macro1**
 1. Change steamDir to your steam directory if different
 2. Set serverIP
 3. Set serverPort
