@@ -9,7 +9,7 @@ Change the following variables under Macro1
 3. Set serverPort
 4. Set serverPassword
 5. Set serverDescription (optional but nice to see if managing multiple scripts)
-6. Load this script into AutoHotkey and press Alt + . to start
+6. Load this script into AutoHotkey and press **Alt + .** to start
 
 An example might look like...
 
