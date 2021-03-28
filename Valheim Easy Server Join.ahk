@@ -55,7 +55,6 @@ Sleep, 333
 WinGetPos, valheimWindowX, valheimWindowY, valheimWindowW, valheimWindowH, Valheim ahk_class UnityWndClass
 startX := valheimWindowW / 2
 startY := valheimWindowH - 50
-initialClickY := startY - 100
 WinWaitActive, Valheim ahk_class UnityWndClass
 Sleep, 333
 Click, %startX%, %startY% Left, 1
