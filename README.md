@@ -1,4 +1,4 @@
-# ValheimEasyServerJoin
+# Valheim Easy Server Join
 An easy way to configure and join Valheim servers using AutoHotkey (https://www.autohotkey.com/)
 
 - This might not work on very small screens. Feel free to send PRs
@@ -13,7 +13,7 @@ Change the following variables under Macro1
 
 An example might look like...
 
-serverIP := "1.1.1.1"
-serverPort := 2456
-serverPassword := "12345"
-serverDescription := "Jojoshua's World"
+- serverIP := "1.1.1.1"
+- serverPort := 2456
+- serverPassword := "12345"
+- serverDescription := "Jojoshua's World"
