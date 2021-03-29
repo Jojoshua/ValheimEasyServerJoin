@@ -59,7 +59,7 @@ WinWaitActive, Valheim ahk_class UnityWndClass
 Sleep, 333
 Click, %startX%, %startY% Left, 1
 Sleep, 1
-SetTimer, Macro3, -2000
+SetTimer, Macro3, -8000
 Return
 
 F5::
