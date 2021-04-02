@@ -46,7 +46,6 @@ IfMsgBox, OK
 }
 Return
 
-^-::
 Macro2:
 WinRestore, Valheim ahk_class UnityWndClass
 Sleep, 333
@@ -62,7 +61,6 @@ Sleep, 1
 SetTimer, Macro3, -7000
 Return
 
-F5::
 Macro3:
 WinRestore, Valheim ahk_class UnityWndClass
 Sleep, 333
